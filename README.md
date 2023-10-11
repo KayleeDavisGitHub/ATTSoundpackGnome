@@ -2,9 +2,9 @@
 This AddOn provides a soundpack for All The Things and changes:
 
 - Fanfare sounds when collecting new things;
-- RareFind sound when a treasure or rare is detected.
+- RareFind sound when a rare item is collected.
 
-These sounds are the in game sounds for gnomes cheering. Simple and minimalistic, it keeps the overal fanfare and noise pollution of ATT to a minimum - but with entertaining confirmations of acheviements still intact.
+These sounds are the in-game sounds for gnomes cheering. Simple and minimalistic, it keeps the overall fanfare and noise pollution of ATT to a minimum - but with entertaining confirmations of achievements still intact.
 
 The purpose of this AddOn is to both serve as an actual soundpack, as well as an example for others to create their own soundpacks for All The Things.
 
